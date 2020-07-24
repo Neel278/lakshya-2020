@@ -1,0 +1,4 @@
+Make event Database and import sql file
+admin access:
+user:admin
+pass:admin@123
