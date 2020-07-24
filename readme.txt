@@ -1,8 +1,8 @@
-Thank you for using our template!
+### Creator
+This project is created by Neel Thakkar.
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+### Helpers
+In this project i have used one of colorlibs free template so really thanks to them :)
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
-
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+### For Any Bug Contact on:
+neelthakkar2001@gmail.com
